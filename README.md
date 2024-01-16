@@ -10,6 +10,10 @@ Download the .zip file and extract the codebase on your local machine.
 Then open the codebase using ide or use terminal to navigate to the codebase and execute the scripts that are given below.
 
 
+
+Make Sure to update your project details in the .env file to run the project or you can use dummy details for using on local machine.
+
+
 ### `Install Vite Globally on your Machine`
 
 npm create vite@latest
