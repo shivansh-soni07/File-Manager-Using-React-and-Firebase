@@ -4,6 +4,7 @@ Features - Authentication , Create Folders , Upload files , Delete Files , Renam
 
 Files and Folders are unique for every user.
 
+
 https://github.com/shivansh-soni07/File-Manager-Using-React-and-Firebase/assets/72219885/c49c8878-6ac1-489e-883a-ed1b593a008f
 
 
