@@ -4,14 +4,23 @@ Features - Authentication , Create Folders , Upload files , Delete Files , Renam
 
 Files and Folders are unique for every user.
 
-**How to setup on your machine.**
+https://github.com/shivansh-soni07/File-Manager-Using-React-and-Firebase/assets/72219885/c49c8878-6ac1-489e-883a-ed1b593a008f
+
+
+
+
+
+**How to set up on your machine.**
 Download the .zip file and extract the codebase on your local machine.
 
-Then open the codebase using ide or use terminal to navigate to the codebase and execute the scripts that are given below.
+Then open the codebase using ide or terminal to navigate to the codebase and execute the scripts below.
 
 
 
 Make Sure to update your project details in the .env file to run the project or you can use dummy details for using on local machine.
+
+
+
 
 
 ### `Install Vite Globally on your Machine`
